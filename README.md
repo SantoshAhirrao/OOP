@@ -1,4 +1,4 @@
-# OOP
+# OOP Level-1
 
 # Class name should start with Capital & Function name should start in small.
 class Student(object)
@@ -25,4 +25,4 @@ Method can be bark() which can return a sound
 # When we put function inside a class is is METHOD
 # Every Single Method within a class is going to have the word self in it 
 
-# def __init__(self,attibute):  -   "Will be the first method after you create a class. ie the first method is referning the dog first 
+# def __init__(self,attibute):  -   "Will be the first method after you create a class. ie the first method is refering the dog first 
